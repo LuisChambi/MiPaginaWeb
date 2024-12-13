@@ -35,8 +35,8 @@ function efectoHabilidades() {
         let habilidades = document.getElementsByClassName("progreso");
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("htmlcss");
-        habilidades[2].classList.add("herramientas");
-        habilidades[3].classList.add("basededatos");
+        habilidades[2].classList.add("flutterflow");
+        habilidades[3].classList.add("diseño");
         habilidades[4].classList.add("testing");
         habilidades[5].classList.add("comunicacion");
         habilidades[6].classList.add("trabajo");

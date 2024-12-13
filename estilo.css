@@ -487,37 +487,37 @@
             }
 
             100% {
-                width: 75%;
+                width: 65%;
             }
         }
 
-        .skills .skill .herramientas {
+        .skills .skill .flutterflow {
             width: 0%;
-            animation: 2s herramientas forwards;
+            animation: 2s flutterflow forwards;
         }
 
-        @keyframes herramientas {
+        @keyframes flutterflow {
             0% {
                 width: 0%;
             }
 
             100% {
-                width: 70%;
+                width: 80%;
             }
         }
 
-        .skills .skill .basededatos {
+        .skills .skill .diseño {
             width: 0%;
-            animation: 2s basededatos forwards;
+            animation: 2s diseño forwards;
         }
 
-        @keyframes basededatos {
+        @keyframes diseño {
             0% {
                 width: 0%;
             }
 
             100% {
-                width: 50%;
+                width: 60%;
             }
         }
 
@@ -592,7 +592,7 @@
             }
 
             100% {
-                width: 85%;
+                width: 80%;
             }
         }
 
